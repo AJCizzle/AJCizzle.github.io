@@ -1,0 +1,49 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ACfinalprojforwebdesignv5.com" resolutions="1x" timestamp="1541426032772">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="untitled-5.css" crc="466138172" ref="untitled-5"/>
+    <file name="index.css" crc="206648241" ref="index"/>
+    <file name="nomq_index.css" crc="4247207725" ref="index"/>
+    <file name="untitled-6.css" crc="4107902008" ref="untitled-6"/>
+    <file name="untitled-7.css" crc="4141186129" ref="untitled-7"/>
+    <file name="untitled-4.css" crc="153020064" ref="untitled-4"/>
+  </folder>
+  <folder name="assets">
+    <file name="colorasbeginning-alexchristopher.html" crc="131062450" seo="true" mt="1539780347000"/>
+    <file name="hairbrush.mp3" crc="4142941270" seo="true" mt="1540367648000"/>
+    <file name="heartjawn.png" crc="163120214" seo="true" mt="1539574858000"/>
+    <file name="heart-2.png" crc="180664246" seo="true" mt="1536631605000"/>
+    <file name="colorasbeginning-alexchristopher2.html" crc="200007307" seo="true" mt="1541407219000"/>
+    <file name="project1_alex_christopher_color-as-beginning-poem.html" crc="536558309" seo="true" mt="1541406510000"/>
+    <file name="eye1.jpeg" crc="336228120" seo="true" mt="1537942098000"/>
+    <file name="fullsizeoutput_d66.jpeg" crc="4091347004" seo="true" mt="1541417752000"/>
+    <file name="fullsizeoutput_d64.jpeg" crc="382343859" seo="true" mt="1541417746000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-5:untitled-6:untitled-4:untitled-7"/>
+    <file name="museutils.js" crc="340535759" ref="index:untitled-5:untitled-6:untitled-4:untitled-7"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-5:untitled-6:untitled-4:untitled-7"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:untitled-5:untitled-6:untitled-4:untitled-7"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:untitled-5:untitled-6:untitled-4:untitled-7"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:untitled-5:untitled-6:untitled-4:untitled-7"/>
+  </folder>
+  <folder name="images">
+    <file name="heartjawn.png" crc="163120214" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="kisspng-heart-anatomy-clip-art-human-heart-5ac3c37a407fa44672913515227790022642.png" crc="358412213" seo="true" ref="untitled-6">
+      <caption webpage="untitled-6" alt=""/>
+    </file>
+    <file name="spinner-1s-200px.gif" crc="55479055" seo="true" ref="untitled-5">
+      <caption webpage="untitled-5" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="435485843" seo="true" mt="1541418142009" redirect="true"/>
+  <file name="untitled-5.html" crc="177499762" seo="true" mt="1541425376179" redirect="true"/>
+  <file name="untitled-6.html" crc="4023784700" seo="true" mt="1541423927136" redirect="true"/>
+  <file name="untitled-4.html" crc="202043388" seo="true" mt="1541426026730" redirect="true"/>
+  <file name="untitled-7.html" crc="4239926742" seo="true" mt="1541425883865" redirect="true"/>
+</manifest>
