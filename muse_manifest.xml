@@ -1,49 +1,102 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ACfinalprojforwebdesignv5.com" resolutions="1x" timestamp="1541426032772">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mrktmag.com" resolutions="1x" timestamp="1544442479227">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="untitled-5.css" crc="466138172" ref="untitled-5"/>
-    <file name="index.css" crc="206648241" ref="index"/>
-    <file name="nomq_index.css" crc="4247207725" ref="index"/>
-    <file name="untitled-6.css" crc="4107902008" ref="untitled-6"/>
-    <file name="untitled-7.css" crc="4141186129" ref="untitled-7"/>
-    <file name="untitled-4.css" crc="153020064" ref="untitled-4"/>
+    <file name="index.css" crc="22059246" ref="index"/>
+    <file name="untitled-5.css" crc="3813098518" ref="untitled-5"/>
+    <file name="untitled-2.css" crc="271117767" ref="untitled-2"/>
+    <file name="untitled-3.css" crc="84828674" ref="untitled-3"/>
+    <file name="untitled-8.css" crc="3958480924" ref="untitled-8"/>
+    <file name="untitled-9.css" crc="4168869344" ref="untitled-9"/>
+    <file name="untitled-16.css" crc="3871750497" ref="untitled-16"/>
+    <file name="untitled-7.css" crc="414729672" ref="untitled-7"/>
+    <file name="untitled-17.css" crc="4026065688" ref="untitled-17"/>
+    <file name="untitled-14.css" crc="4038532846" ref="untitled-14"/>
+    <file name="untitled-19.css" crc="344196175" ref="untitled-19"/>
+    <file name="untitled-13.css" crc="371620489" ref="untitled-13"/>
+    <file name="untitled-18.css" crc="153927378" ref="untitled-18"/>
+    <file name="untitled-15.css" crc="370652202" ref="untitled-15"/>
+    <file name="master_a-master.css" crc="3937978382" ref="untitled-2:untitled-5:untitled-9:untitled-14:untitled-17:untitled-13:untitled-18:untitled-15:untitled-7:untitled-8:untitled-20:untitled-19:untitled-16:untitled-3:untitled-4:untitled-21:untitled-23"/>
+    <file name="untitled-20.css" crc="4209101142" ref="untitled-20"/>
+    <file name="untitled-4.css" crc="4252425333" ref="untitled-4"/>
+    <file name="untitled-21.css" crc="516237113" ref="untitled-21"/>
+    <file name="untitled-23.css" crc="4159756898" ref="untitled-23"/>
   </folder>
   <folder name="assets">
-    <file name="colorasbeginning-alexchristopher.html" crc="131062450" seo="true" mt="1539780347000"/>
-    <file name="hairbrush.mp3" crc="4142941270" seo="true" mt="1540367648000"/>
-    <file name="heartjawn.png" crc="163120214" seo="true" mt="1539574858000"/>
-    <file name="heart-2.png" crc="180664246" seo="true" mt="1536631605000"/>
-    <file name="colorasbeginning-alexchristopher2.html" crc="200007307" seo="true" mt="1541407219000"/>
-    <file name="project1_alex_christopher_color-as-beginning-poem.html" crc="536558309" seo="true" mt="1541406510000"/>
-    <file name="eye1.jpeg" crc="336228120" seo="true" mt="1537942098000"/>
-    <file name="fullsizeoutput_d66.jpeg" crc="4091347004" seo="true" mt="1541417752000"/>
-    <file name="fullsizeoutput_d64.jpeg" crc="382343859" seo="true" mt="1541417746000"/>
+    <file name="mvi_0990.mp4" crc="4085610534" seo="true" mt="1434070804000"/>
+    <file name="mvi_1166.mp4" crc="4105674847" seo="true" mt="1435446220000"/>
+    <file name="mvi_1246.mp4" crc="4072873422" seo="true" mt="1435454078000"/>
+    <file name="mvi_1074.mp4" crc="3772207666" seo="true" mt="1435393342000"/>
+    <file name="mvi_0483.mp4" crc="355070053" seo="true" mt="1421544256000"/>
+    <file name="mvi_0796.mp4" crc="4060190527" seo="true" mt="1423274730000"/>
+    <file name="mvi_1430.mp4" crc="123635391" seo="true" mt="1436487556000"/>
+    <file name="mvi_1439.mp4" crc="375742803" seo="true" mt="1436487882000"/>
+    <file name="timed_redirect.zip" crc="379177702" seo="true" mt="1544329496000"/>
+    <file name="-mr--timed-redirect.mulib" crc="169210381" seo="true" mt="1417922086000"/>
+    <file name="output_by0qpd.mp4" crc="420222637" seo="true" mt="1544426064000"/>
+    <file name="output_cuvy81.mp4" crc="4071724935" seo="true" mt="1544427175000"/>
+    <file name="mvi_1873.mp4" crc="3784964952" seo="true" mt="1436841568000"/>
+    <file name="mvi_1167.mp4" crc="312085138" seo="true" mt="1435446240000"/>
+    <file name="mvi_1013.mp4" crc="3987735851" seo="true" mt="1434508936000"/>
+    <file name="output_3hxbis.mp4" crc="47629387" seo="true" mt="1544426463000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-5:untitled-6:untitled-4:untitled-7"/>
-    <file name="museutils.js" crc="340535759" ref="index:untitled-5:untitled-6:untitled-4:untitled-7"/>
-    <file name="whatinput.js" crc="86476730" ref="index:untitled-5:untitled-6:untitled-4:untitled-7"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:untitled-5:untitled-6:untitled-4:untitled-7"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:untitled-5:untitled-6:untitled-4:untitled-7"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index:untitled-5:untitled-6:untitled-4:untitled-7"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2:untitled-3:untitled-5:untitled-7:untitled-8:untitled-9:untitled-16:untitled-17:untitled-13:untitled-14:untitled-15:untitled-18:untitled-19:untitled-20:untitled-4:untitled-21:untitled-23"/>
+    <file name="museutils.js" crc="340535759" ref="index:untitled-2:untitled-3:untitled-5:untitled-7:untitled-8:untitled-9:untitled-16:untitled-17:untitled-13:untitled-14:untitled-15:untitled-18:untitled-19:untitled-20:untitled-4:untitled-21:untitled-23"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2:untitled-3:untitled-5:untitled-7:untitled-8:untitled-9:untitled-16:untitled-17:untitled-13:untitled-14:untitled-15:untitled-18:untitled-19:untitled-20:untitled-4:untitled-21:untitled-23"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:untitled-2:untitled-3:untitled-5:untitled-7:untitled-8:untitled-9:untitled-16:untitled-17:untitled-13:untitled-14:untitled-15:untitled-18:untitled-19:untitled-20:untitled-4:untitled-21:untitled-23"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:untitled-2:untitled-3:untitled-5:untitled-7:untitled-8:untitled-9:untitled-16:untitled-17:untitled-13:untitled-14:untitled-15:untitled-18:untitled-19:untitled-20:untitled-4:untitled-21:untitled-23"/>
+    <file name="require.js" crc="7928878" ref="index:untitled-2:untitled-3:untitled-5:untitled-7:untitled-8:untitled-9:untitled-16:untitled-17:untitled-13:untitled-14:untitled-15:untitled-18:untitled-19:untitled-20:untitled-4:untitled-21:untitled-23"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="untitled-3:untitled-16:untitled-8:index:untitled-21:untitled-14:untitled-15:untitled-18:untitled-19:untitled-23"/>
   </folder>
   <folder name="images">
-    <file name="heartjawn.png" crc="163120214" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="mrktposter-goat-recovered.png" crc="106068263" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="kisspng-heart-anatomy-clip-art-human-heart-5ac3c37a407fa44672913515227790022642.png" crc="358412213" seo="true" ref="untitled-6">
-      <caption webpage="untitled-6" alt=""/>
+    <file name="marketjesusmalverde.png" crc="3824480993" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
     </file>
-    <file name="spinner-1s-200px.gif" crc="55479055" seo="true" ref="untitled-5">
-      <caption webpage="untitled-5" alt=""/>
+    <file name="img_1147.jpg" crc="3982564222" ref="untitled-16">
+      <caption webpage="untitled-16" alt=""/>
+    </file>
+    <file name="img_1312.jpg" crc="403211516" ref="untitled-8">
+      <caption webpage="untitled-8" alt=""/>
+    </file>
+    <file name="u1395-4.png" crc="4097513740" ref="untitled-2:untitled-3:untitled-5:untitled-7:untitled-8:untitled-9:untitled-16:untitled-17:untitled-13:untitled-14:untitled-15:untitled-18:untitled-19:untitled-20:untitled-4:untitled-21:untitled-23"/>
+    <file name="img_1834.jpg" crc="3982409663" ref="untitled-21">
+      <caption webpage="untitled-21" alt=""/>
+    </file>
+    <file name="img_1655.jpg" crc="3899941816" ref="untitled-14">
+      <caption webpage="untitled-14" alt=""/>
+    </file>
+    <file name="img_1656.jpg" crc="3875358274" ref="untitled-15">
+      <caption webpage="untitled-15" alt=""/>
+    </file>
+    <file name="img_1657.jpg" crc="4289676831" ref="untitled-18">
+      <caption webpage="untitled-18" alt=""/>
+    </file>
+    <file name="img_1658.jpg" crc="232375657" ref="untitled-19">
+      <caption webpage="untitled-19" alt=""/>
+    </file>
+    <file name="img_1659.jpg" crc="405302117" ref="untitled-23">
+      <caption webpage="untitled-23" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="435485843" seo="true" mt="1541418142009" redirect="true"/>
-  <file name="untitled-5.html" crc="177499762" seo="true" mt="1541425376179" redirect="true"/>
-  <file name="untitled-6.html" crc="4023784700" seo="true" mt="1541423927136" redirect="true"/>
-  <file name="untitled-4.html" crc="202043388" seo="true" mt="1541426026730" redirect="true"/>
-  <file name="untitled-7.html" crc="4239926742" seo="true" mt="1541425883865" redirect="true"/>
+  <file name="index.html" crc="4198221399" seo="true" mt="1544442472961" redirect="true"/>
+  <file name="untitled-2.html" crc="4064556277" seo="true" mt="1544440502228" redirect="true"/>
+  <file name="untitled-3.html" crc="3888354244" seo="true" mt="1544423271754" redirect="true"/>
+  <file name="untitled-5.html" crc="3790288847" seo="true" mt="1544431225627" redirect="true"/>
+  <file name="untitled-7.html" crc="232923180" seo="true" mt="1544423271754" redirect="true"/>
+  <file name="untitled-8.html" crc="4019725928" seo="true" mt="1544439691206" redirect="true"/>
+  <file name="untitled-9.html" crc="4290300610" seo="true" mt="1544440048018" redirect="true"/>
+  <file name="untitled-16.html" crc="4179192042" seo="true" mt="1544440122069" redirect="true"/>
+  <file name="untitled-17.html" crc="452864117" seo="true" mt="1544431217150" redirect="true"/>
+  <file name="untitled-13.html" crc="247394496" seo="true" mt="1544441137341" redirect="true"/>
+  <file name="untitled-14.html" crc="296377582" seo="true" mt="1544441353140" redirect="true"/>
+  <file name="untitled-15.html" crc="4272263904" seo="true" mt="1544441369693" redirect="true"/>
+  <file name="untitled-18.html" crc="4257495294" seo="true" mt="1544441429170" redirect="true"/>
+  <file name="untitled-19.html" crc="3990331442" seo="true" mt="1544441466276" redirect="true"/>
+  <file name="untitled-20.html" crc="134202413" seo="true" mt="1544440467495" redirect="true"/>
+  <file name="untitled-4.html" crc="283140811" seo="true" mt="1544439937587" redirect="true"/>
+  <file name="untitled-21.html" crc="3851340075" seo="true" mt="1544440256431" redirect="true"/>
+  <file name="untitled-23.html" crc="198307282" seo="true" mt="1544441532511" redirect="true"/>
 </manifest>
